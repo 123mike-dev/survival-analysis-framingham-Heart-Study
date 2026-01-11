@@ -36,3 +36,11 @@ Framingham Heart Study dataset (longitudinal cardiovascular data).
 - Data analysis in R and Python
 
 ## 📁 Repository Structure
+├── data/
+├── scripts/
+├── results/
+├── report/
+└── README.md
+## 📎 Author
+**Hillary Mike**  
+BSc Actuarial Science with IT – Year 4

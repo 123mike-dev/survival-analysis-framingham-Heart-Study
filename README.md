@@ -1,8 +1,21 @@
-# Survival Analysis – Framingham Heart Study
+# Survival Analysis of Cardiovascular Risk – Framingham Study
 
 ## 📌 Project Overview
-This project applies survival analysis techniques to study time-to-event data
-and identify key risk factors associated with cardiovascular disease.
+To analyze time-to-event data and identify factors influencing the risk of cardiovascular disease using survival analysis techniques.
+
+## 📊 Dataset Description
+- Source: Framingham Heart Study
+- Observations: Individuals tracked over time
+- Key variables:
+> Age
+> Gender
+> Blood Pressure
+> Cholesterol
+> Smoking status
+> Diabetes
+> Time (duration)
+> Event (heart disease occurrence: 1 = yes, 0 = censored)
+
 
 ## 🎯 Objectives
 - Estimate survival probabilities over time

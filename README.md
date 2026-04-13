@@ -1,9 +1,9 @@
 # Survival Analysis of Cardiovascular Risk – Framingham Study
 
-## 📌 Project Overview
+## Project Overview
 To analyze time-to-event data and identify factors influencing the risk of cardiovascular disease using survival analysis techniques.
 
-## 📊 Dataset Description
+## Dataset Description
 - Source: Framingham Heart Study
 - Observations: Individuals tracked over time
 - Key variables:
@@ -17,43 +17,36 @@ To analyze time-to-event data and identify factors influencing the risk of cardi
 > Event (heart disease occurrence: 1 = yes, 0 = censored)
 
 
-## 🎯 Objectives
+## Objectives
 - Estimate survival probabilities over time
 - Compare survival experiences between groups
 - Identify significant predictors of survival
 
-## 📊 Dataset
+## Dataset
 Framingham Heart Study dataset (longitudinal cardiovascular data).
 
-## 🛠 Tools & Software
-- R
+## Tools & Software
 - Python
-- SPSS
+- R
 - lifelines package
 - survival package (R)
 
-## 📈 Methods Used
+## Methods Used
 - Kaplan–Meier survival estimator
 - Log-rank test
 - Cox Proportional Hazards Model
 
-## 📉 Key Findings
+## Key Findings
 - Age and smoking status significantly affect survival time
 - Higher blood pressure increases hazard of cardiovascular events
 - Cox model provides interpretable hazard ratios
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 - Survival analysis
 - Statistical modeling
 - Risk factor interpretation
 - Data analysis in R and Python
 
-## 📁 Repository Structure
-├── data/
-├── scripts/
-├── results/
-├── report/
-└── README.md
 ## 📎 Author
 **Hillary Mike**  
 BSc Actuarial Science with IT – Year 4
